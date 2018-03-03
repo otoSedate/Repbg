@@ -2,6 +2,7 @@
 
 using namespace std;
 
+#study prog
 int main()
 {
 	int a, b;
